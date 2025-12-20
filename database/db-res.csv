@@ -1,0 +1,12 @@
+IPN,Value,Description,Symbol,Footprint,MPN,Manufacturer
+409001,87.6k,RES 88.7K OHM 1% 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT88K7,Stackpole Electronics Inc
+409002,10k,RES 10K OHM 1% 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT10K0,Stackpole Electronics Inc
+409003,4.7k,RES 4.7K OHM 1% 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT4K70,Stackpole Electronics Inc
+409004,33.2k,RES 33.2K OHM 1% 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT33K2,Stackpole Electronics Inc
+409005,0R,RES 0 OHM JUMPER 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805ZT0R00,Stackpole Electronics Inc
+409006,22k,RES 22K OHM 5% 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805JT22K0,Stackpole Electronics Inc
+409007,2.2k,RES 2.2K OHM 5% 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805JT2K20,Stackpole Electronics Inc
+409008,220,RES 220 OHM 1% 1/8W 0805,Device:R_US,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT220R,Stackpole Electronics Inc
+409009,22k,RES 22K OHM 5% 1/10W 0603,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RC0603JR-0722KL,YAGEO
+409010,2.2k,RES 2.2K OHM 1% 1/10W 0603,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RC0603FR-072K2L,YAGEO
+409011,220,RES 220 OHM 5% 1/10W 0603,Device:R_US,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,RC0603JR-07220RL,YAGEO

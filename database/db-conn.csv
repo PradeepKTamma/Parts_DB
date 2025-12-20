@@ -1,0 +1,3 @@
+IPN,Value,Description,Symbol,Footprint,MPN,Manufacturer
+703001,1725656,TERM BLK 2P SIDE ENT 2.54MM PCB,Connector_Generic:Conn_01x02,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",1725656,Phoenix Contact
+703002,G800LQ594032HR,"PIN HEADER 2.54MM PITCH STR DIP,",Connector_Generic:Conn_02x02_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,G800LQ594032HR,Amphenol ICC (Commercial Products)

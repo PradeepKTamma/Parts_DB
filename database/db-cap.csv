@@ -1,0 +1,9 @@
+IPN,Value,Description,Symbol,Footprint,MPN,Manufacturer
+403001,4.7u,CAP CER 4.7UF 25V X5R 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21A475KAQNNNE,Samsung Electro-Mechanics
+403002,1u,CAP CER 1UF 50V X7R 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21B105KBFNNNE,Samsung Electro-Mechanics
+403003,10u,CAP CER 10UF 50V X5R 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21A106KBYQNNE,Samsung Electro-Mechanics
+403004,22u,CAP CER 22UF 25V X5R 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21A226MAYNNNE,Samsung Electro-Mechanics
+403005,100n,CAP CER 0.1UF 50V X7R 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21B104KBCNNNC,Samsung Electro-Mechanics
+403006,22n,CAP CER 0.022UF 50V X7R 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21B223KBANFNC,Samsung Electro-Mechanics
+403007,30p,CAP CER 30PF 50V C0G/NP0 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CML0805C0G300JT50V,Stackpole Electronics Inc
+403008,30p,CAP CER 30PF 50V C0G/NP0 0603,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,CML0603C0G300JT50V,Stackpole Electronics Inc

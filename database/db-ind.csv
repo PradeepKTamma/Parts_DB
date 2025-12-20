@@ -1,0 +1,3 @@
+IPN,Value,Description,Symbol,Footprint,MPN,Manufacturer
+401001,22uH,IND 22 UH 1.55A SMT,Device:L,db-ind:IND_SDCL1V4030_EAT-M,SDCL1V4030-220M-R,Eaton - Electronics Division
+401002,3.3uH,FIXED IND 3.3UH 2.8A 48 MOHM SMD,Device:L,db-ind:BWVS005050203R3M00,BWVS005050203R3M00,Pulse Electronics

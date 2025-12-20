@@ -1,0 +1,325 @@
+{
+    "meta": {
+        "version": 0
+    },
+    "name": "KiCad Database Library",
+    "description": "KiCad components database",
+    "source": {
+        "type": "odbc",
+        "dsn": "",
+        "username": "",
+        "password": "",
+        "timeout_seconds": 10,
+        "connection_string": "DRIVER={SQLite3};DATABASE=${CWD}/parts.sqlite"
+    },
+    "libraries": [
+        {
+            "name": "res",
+            "table": "res",
+            "key": "IPN",
+            "symbols": "Symbol",
+            "footprints": "Footprint",
+            "fields": [
+                {
+                    "column": "IPN",
+                    "name": "IPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },  
+                {
+                    "column": "Value",
+                    "name": "Value",
+                    "visible_on_add": true,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Description",
+                    "name": "Description",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "MPN",
+                    "name": "MPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": false
+                },
+                {
+                    "column": "Manufacturer",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                }
+            ]
+        },
+        {
+            "name": "cap",
+            "table": "cap",
+            "key": "IPN",
+            "symbols": "Symbol",
+            "footprints": "Footprint",
+            "fields": [
+                {
+                    "column": "IPN",
+                    "name": "IPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },  
+                {
+                    "column": "Value",
+                    "name": "Value",
+                    "visible_on_add": true,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Description",
+                    "name": "Description",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "MPN",
+                    "name": "MPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": false
+                },
+                {
+                    "column": "Manufacturer",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                }
+            ]
+        },
+       {
+           "name": "pcim",
+           "table": "pcim",
+           "key": "IPN",
+           "symbols": "Symbol",
+           "footprints": "Footprint",
+           "fields": [
+               {
+                   "column": "IPN",
+                   "name": "IPN",
+                   "visible_on_add": false,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               },  
+               {
+                   "column": "Value",
+                   "name": "Value",
+                   "visible_on_add": true,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               },
+               {
+                   "column": "Description",
+                   "name": "Description",
+                   "visible_on_add": false,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               },
+               {
+                   "column": "MPN",
+                   "name": "MPN",
+                   "visible_on_add": false,
+                   "visible_in_chooser": false,
+                   "show_name": false
+               },
+               {
+                   "column": "Manufacturer",
+                   "name": "Manufacturer",
+                   "visible_on_add": false,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               }
+           ]
+        },
+        {
+          "name": "ind",
+          "table": "ind",
+          "key": "IPN",
+          "symbols": "Symbol",
+          "footprints": "Footprint",
+          "fields": [
+              {
+                  "column": "IPN",
+                  "name": "IPN",
+                  "visible_on_add": false,
+                  "visible_in_chooser": true,
+                  "show_name": false
+              },  
+              {
+                  "column": "Value",
+                  "name": "Value",
+                  "visible_on_add": true,
+                  "visible_in_chooser": true,
+                  "show_name": false
+              },
+              {
+                  "column": "Description",
+                  "name": "Description",
+                  "visible_on_add": false,
+                  "visible_in_chooser": true,
+                  "show_name": false
+              },
+              {
+                  "column": "MPN",
+                  "name": "MPN",
+                  "visible_on_add": false,
+                  "visible_in_chooser": false,
+                  "show_name": false
+              },
+              {
+                  "column": "Manufacturer",
+                  "name": "Manufacturer",
+                  "visible_on_add": false,
+                  "visible_in_chooser": true,
+                  "show_name": false
+              }
+          ]
+        },
+        {
+            "name": "dio",
+            "table": "dio",
+            "key": "IPN",
+            "symbols": "Symbol",
+            "footprints": "Footprint",
+            "fields": [
+                {
+                    "column": "IPN",
+                    "name": "IPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },  
+                {
+                    "column": "Value",
+                    "name": "Value",
+                    "visible_on_add": true,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Description",
+                    "name": "Description",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "MPN",
+                    "name": "MPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": false
+                },
+                {
+                    "column": "Manufacturer",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                }
+            ]
+        },
+       {
+           "name": "conn",
+           "table": "conn",
+           "key": "IPN",
+           "symbols": "Symbol",
+           "footprints": "Footprint",
+           "fields": [
+               {
+                   "column": "IPN",
+                   "name": "IPN",
+                   "visible_on_add": false,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               },  
+               {
+                   "column": "Value",
+                   "name": "Value",
+                   "visible_on_add": true,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               },
+               {
+                   "column": "Description",
+                   "name": "Description",
+                   "visible_on_add": false,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               },
+               {
+                   "column": "MPN",
+                   "name": "MPN",
+                   "visible_on_add": false,
+                   "visible_in_chooser": false,
+                   "show_name": false
+               },
+               {
+                   "column": "Manufacturer",
+                   "name": "Manufacturer",
+                   "visible_on_add": false,
+                   "visible_in_chooser": true,
+                   "show_name": false
+               }
+           ]
+       },
+       {
+      "name": "bjt",
+      "table": "bjt",
+      "key": "IPN",
+      "symbols": "Symbol",
+      "footprints": "Footprint",
+      "fields": [
+          {
+              "column": "IPN",
+              "name": "IPN",
+              "visible_on_add": false,
+              "visible_in_chooser": true,
+              "show_name": false
+          },  
+          {
+              "column": "Value",
+              "name": "Value",
+              "visible_on_add": true,
+              "visible_in_chooser": true,
+              "show_name": false
+          },
+          {
+              "column": "Description",
+              "name": "Description",
+              "visible_on_add": false,
+              "visible_in_chooser": true,
+              "show_name": false
+          },
+          {
+              "column": "MPN",
+              "name": "MPN",
+              "visible_on_add": false,
+              "visible_in_chooser": false,
+              "show_name": false
+          },
+          {
+              "column": "Manufacturer",
+              "name": "Manufacturer",
+              "visible_on_add": false,
+              "visible_in_chooser": true,
+              "show_name": false
+          }
+      ]
+    }                                                                                                                                                                                                                                                                                                                                                                              
+    ]
+}
