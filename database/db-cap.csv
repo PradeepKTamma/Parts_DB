@@ -7,3 +7,7 @@ IPN,Value,Description,Symbol,Footprint,MPN,Manufacturer
 403006,22n,CAP CER 0.022UF 50V X7R 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21B223KBANFNC,Samsung Electro-Mechanics
 403007,30p,CAP CER 30PF 50V C0G/NP0 0805,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CML0805C0G300JT50V,Stackpole Electronics Inc
 403008,30p,CAP CER 30PF 50V C0G/NP0 0603,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,CML0603C0G300JT50V,Stackpole Electronics Inc
+403009,4.7u,CAP CER 4.7UF 35V X5R 0603,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,GRM188R6YA475KE15D,Murata Electronics
+403010,100n,CAP CER 0.1UF 35V X5R 0603,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,GMK107BJ104KAHT,Taiyo Yuden
+403011,1u,CAP CER 1UF 35V X7R 0603,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,GMK107AB7105KAHT,Taiyo Yuden
+403012,22n,CAP CER 22NF 16V X7R 0603,Device:C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,CL10B223KO8WPNC,Samsung Electro-Mechanics

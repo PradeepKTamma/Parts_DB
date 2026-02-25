@@ -1,3 +1,7 @@
 IPN,Value,Description,Symbol,Footprint,MPN,Manufacturer
 703001,1725656,TERM BLK 2P SIDE ENT 2.54MM PCB,Connector_Generic:Conn_01x02,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",1725656,Phoenix Contact
 703002,G800LQ594032HR,"PIN HEADER 2.54MM PITCH STR DIP,",Connector_Generic:Conn_02x02_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,G800LQ594032HR,Amphenol ICC (Commercial Products)
+703003,APO-308-G-R,"8 Position DIP, DIL - Header Connector Male Pin Gold",Connector_Generic:Conn_02x04_Counter_Clockwise,Package_DIP:DIP-8_W7.62mm_Socket,APO-308-G-R,Samtec Inc.
+703004,APA-308-T-A1,"8 Position DIP, DIL - Header Connector Male Pin Tin",Connector_Generic:Conn_02x04_Counter_Clockwise,Package_DIP:DIP-8_W7.62mm_Socket,APA-308-T-A1,Samtec Inc.
+703005,HTSW-103-07-L-S,CONN HEADER VERT 3POS 2.54MM,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,HTSW-103-07-L-S,Samtec Inc.
+703006,HTSW-102-07-G-S,CONN HEADER VERT 2POS 2.54MM,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,HTSW-102-07-G-S,Samtec Inc.

@@ -24,7 +24,7 @@
                     "column": "IPN",
                     "name": "IPN",
                     "visible_on_add": false,
-                    "visible_in_chooser": true,
+                    "visible_in_chooser": false,
                     "show_name": false
                 },  
                 {
@@ -68,7 +68,7 @@
                     "column": "IPN",
                     "name": "IPN",
                     "visible_on_add": false,
-                    "visible_in_chooser": true,
+                    "visible_in_chooser": false,
                     "show_name": false
                 },  
                 {
@@ -112,7 +112,7 @@
                    "column": "IPN",
                    "name": "IPN",
                    "visible_on_add": false,
-                   "visible_in_chooser": true,
+                    "visible_in_chooser": false,
                    "show_name": false
                },  
                {
@@ -155,7 +155,7 @@
               {
                   "column": "IPN",
                   "name": "IPN",
-                  "visible_on_add": false,
+                  "visible_on_add": true,
                   "visible_in_chooser": true,
                   "show_name": false
               },  
@@ -199,7 +199,7 @@
                 {
                     "column": "IPN",
                     "name": "IPN",
-                    "visible_on_add": false,
+                    "visible_on_add": true,
                     "visible_in_chooser": true,
                     "show_name": false
                 },  
@@ -244,7 +244,7 @@
                    "column": "IPN",
                    "name": "IPN",
                    "visible_on_add": false,
-                   "visible_in_chooser": true,
+                   "visible_in_chooser": false,
                    "show_name": false
                },  
                {
@@ -288,7 +288,7 @@
               "column": "IPN",
               "name": "IPN",
               "visible_on_add": false,
-              "visible_in_chooser": true,
+              "visible_in_chooser": false,
               "show_name": false
           },  
           {
